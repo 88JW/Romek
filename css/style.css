@@ -10,7 +10,7 @@
   height: 400px;
   /* Photo by Edward Howell on Unsplash */
 }
-/* Podmienieć zdjęcie na papu jakieś */
+
 
 @media (min-width: 576px) {
   #header__img {
